@@ -1,0 +1,8 @@
+{
+	"name": "recompensas",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.2",
+		"request": "^2.83.0",
+		"webdriverio": "^4.12.0"
+	}
+}
